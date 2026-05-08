@@ -7,13 +7,13 @@ import { ArrowLeft, MapPin, Mail, Phone, Cake, Send } from 'lucide-react'
 
 export default function Details() {
   const details = {
-    realName: 'Nasirul',
-    dob: '01/02/2007',
+    realName: 'Rehan Ahmad',
+    dob: '28/01/2008',
     country: 'India',
-    state: 'Assam',
-    aliases: ['Arijitiyan', 'I AM CC', 'Captain Cool'],
-    email: 'alinasirul438@gmail.com',
-    telegram: '@arijitiyan'
+    state: 'UP',
+    aliases: ['rehann', 'NON COMPETITION', 'Recodex'],
+    email: 'ra8295663@gmaip.com',
+    telegram: '@rehann2oo8'
   }
 
   return (
